@@ -30,7 +30,7 @@ O sistema inclui várias medidas de proteção para garantir a segurança dos da
 
 ## Screenshots
 
-![Página Principal de Notícias](link_para_imagem_da_pagina_principal.png)
+![Página Principal de Notícias]![image](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/b85a3d1e-d705-44ef-8721-2635a2558141)
 *Página principal de notícias com funcionalidade de busca e botão para visualização completa.*
 
 ![Página de Login](link_para_imagem_da_pagina_de_login.png)
