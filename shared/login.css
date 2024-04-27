@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ecf0f1;
+    font-family: 'Poppins', sans-serif;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.login-card {
+    background: white;
+    padding: 60px 80px; /* Padding ajustado para melhorar o espaço interno */
+    border-radius: 12px; /* Bordas mais arredondadas */
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 600px; /* Largura máxima ajustada */
+}
+
+.login-card h1 {
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+}
+
+.input-wrapper {
+    margin-bottom: 25px; /* Maior espaçamento entre os campos */
+    padding: 0px, 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.input-wrapper input {
+    width: 100%;
+    padding: 15px;/* Padding interno maior para maior conforto */
+    border-radius: 8px; /* Bordas mais arredondadas */
+    border: 1px solid #bdc3c7;
+    font-size: 18px; /* Fonte maior para melhor leitura */
+}
+
+.login-button {
+    width: 100%;
+    padding: 20px; /* Padding mais espesso para uma sensação mais robusta */
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px; /* Bordas mais arredondadas */
+    cursor: pointer;
+    font-size: 21px; /* Fonte ligeiramente maior */
+    transition: background 0.3s;
+}
+
+.login-button:hover {
+    background: #2980b9;
+}
+
+.footer {
+    margin-top: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.link-button {
+    padding: 15px 20px; /* Padding aumentado */
+    background: #95a5a6;
+    color: white;
+    border: none;
+    border-radius: 8px; /* Bordas mais arredondadas */
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 18px; /* Fonte aumentada */
+    transition: background 0.3s;
+}
+
+.link-button:hover {
+    background: #7f8c8d;
+}

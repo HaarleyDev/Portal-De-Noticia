@@ -1,0 +1,48 @@
+:root {
+    --cor-primaria: #343a40; /* Atualizado para um tom mais moderno de cinza escuro */
+    --texto-cor: #ffffff;
+    --hover-bg-cor: #f8f9fa;
+    --hover-texto-cor: #343a40;
+    --fonte-padrao: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--fonte-padrao);
+}
+
+body {
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: var(--cor-primaria);
+}
+
+header .logo {
+    color: var(--texto-cor);
+}
+
+header ul li a {
+    color: var(--texto-cor);
+}
+
+header ul li a:hover {
+    background-color: var(--hover-bg-cor);
+    color: var(--hover-texto-cor);
+}
+
+footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+    header .logo, header ul li a {
+        font-size: 0.9rem;
+    }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "id_jornalista": "31",
+        "nome_jornalista": "Ana",
+        "email_jornalista": "ana@ana.com",
+        "contato_jornalista": "2147483647"
+    },
+    {
+        "id_jornalista": "32",
+        "nome_jornalista": "Haarley",
+        "email_jornalista": "h@info.com",
+        "contato_jornalista": "2147483647"
+    }
+]
