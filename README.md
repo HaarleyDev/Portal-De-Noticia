@@ -66,7 +66,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Licença
 
-[Inserir Licença]
+[Distribuído sob a Licença MIT. Veja LICENSE para mais informações.]
 
 ---
 Este projeto foi desenvolvido por [Haarley]. Para quaisquer dúvidas ou sugestões, entre em contato através do email [guilhermeharley7@gmail.com].
