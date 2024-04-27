@@ -47,6 +47,19 @@ O sistema inclui várias medidas de proteção para garantir a segurança dos da
 - *Página do jornalista para ter acesso a cadastro e ver suas próprias notícias publicadas.*
 ![Página de Jornalista](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/7e72c74f-557e-4444-9ec6-c8adadced280)
 
+
+- *Página do jornalista para ver suas próprias notícias publicadas.*
+![Página de Ver Noticia](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/4291ff2f-e372-474a-94a3-362ad27c4311)
+
+
+- *Página do jornalista para cadastro suas próprias notícias publicadas.*
+![Página Cadastrar Noticia](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/0b7c7a50-6e4e-4266-8d8e-eca16aacf2a2)
+
+
+- *Página do desenvolvedor para verificação das APIS.*
+![Página Verificação em JSON](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/888f394b-a105-4ab4-839b-f29948a044e7)
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para adicionar novos recursos, corrigir bugs ou melhorar a documentação.
