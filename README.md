@@ -36,18 +36,16 @@ O sistema inclui várias medidas de proteção para garantir a segurança dos da
 
 ## Screenshots
 
+- *Página principal de notícias com funcionalidade de busca e botão para visualização completa.*
 ![Página Principal de Notícias](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/b85a3d1e-d705-44ef-8721-2635a2558141)
-*Página principal de notícias com funcionalidade de busca e botão para visualização completa.*
 
+
+- *Página de login para acesso ao sistema com diferentes níveis de permissão.*
 ![Página de Login](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/1c2dc8aa-706b-4aa4-a0bc-6256ab2e6217)
 
-*Página de login para acesso ao sistema com diferentes níveis de permissão.*
 
+- *Página do jornalista para ter acesso a cadastro e ver suas próprias notícias publicadas.*
 ![Página de Jornalista](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/7e72c74f-557e-4444-9ec6-c8adadced280)
-
-*Página do jornalista para ter acesso a cadastro e ver suas próprias notícias publicadas.*
-
-
 
 ## Contribuições
 
