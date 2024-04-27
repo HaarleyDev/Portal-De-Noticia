@@ -28,26 +28,26 @@ O sistema inclui várias medidas de proteção para garantir a segurança dos da
 - Proteções contra XSS (Cross-Site Scripting)
 - Senhas criptografadas usando algoritmo de HashPassword, tornando impossível a descriptografia
 
-## Screenshots
-
-![Página Principal de Notícias]![image](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/b85a3d1e-d705-44ef-8721-2635a2558141)
-*Página principal de notícias com funcionalidade de busca e botão para visualização completa.*
-
-![Página de Login](link_para_imagem_da_pagina_de_login.png)
-*Página de login para acesso ao sistema com diferentes níveis de permissão.*
-
 ## Tecnologias Utilizadas
 
 - Frontend: Bootstrap CSS, JavaScript
 - Backend: PHP
 - Banco de Dados: SQL
 
-## Como Executar
+## Screenshots
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Configure o ambiente PHP e SQL, se necessário.
-3. Importe o banco de dados.
-4. Execute o aplicativo em um servidor PHP.
+![Página Principal de Notícias](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/b85a3d1e-d705-44ef-8721-2635a2558141)
+*Página principal de notícias com funcionalidade de busca e botão para visualização completa.*
+
+![Página de Login](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/1c2dc8aa-706b-4aa4-a0bc-6256ab2e6217)
+
+*Página de login para acesso ao sistema com diferentes níveis de permissão.*
+
+![Página de Jornalista](https://github.com/HaarleyDev/Portal-De-Noticia/assets/85031806/7e72c74f-557e-4444-9ec6-c8adadced280)
+
+*Página do jornalista para ter acesso a cadastro e ver suas próprias notícias publicadas.*
+
+
 
 ## Contribuições
 
@@ -58,4 +58,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 [Inserir Licença]
 
 ---
-Este projeto foi desenvolvido por [Seu Nome]. Para quaisquer dúvidas ou sugestões, entre em contato através do email [seu.email@example.com].
+Este projeto foi desenvolvido por [Haarley]. Para quaisquer dúvidas ou sugestões, entre em contato através do email [guilhermeharley7@gmail.com].
